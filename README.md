@@ -44,7 +44,6 @@ El repositorio incluye imágenes y portadas del catálogo, así como el logo ori
 - Detalle de película o serie (por ejemplo, `dr_house.html`).
 - Perfil de usuario (`perfil.html`).
 
-> Pendiente: agregar capturas reales de la interfaz en funcionamiento.
 
 ## 🛠 Lenguajes y tecnologías
 - **HTML5:** estructura y contenido de las distintas páginas.
@@ -92,6 +91,3 @@ La dirección y el puerto pueden variar según la configuración del servidor lo
 ## Autora
 - **Karen Nina Coela** — [GitHub](https://github.com/Karen-nina)
 
----
-
-Proyecto de demostración frontend. Documentación basada en los archivos y funcionalidades presentes en el repositorio.
